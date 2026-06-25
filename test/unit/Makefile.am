@@ -56,6 +56,7 @@ check_PROGRAMS = \
 	fcollect64 \
 	bigput \
 	hierarchical_barrier \
+	hier_barrier_sense \
 	bigget \
 	ns \
 	bcast_flood \
